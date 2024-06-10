@@ -5,7 +5,7 @@ Survey app sample project with laravel livewire
 - git clone https://github.com/sefaiyi/captanomy.git
 - cd project_folder
 - composer install
-- cp .env.example
+- cp .env.example .env
 - update database variable in .evn file
 - php artisan migrate
 - php artisan db:seed // for sample data
