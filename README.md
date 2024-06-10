@@ -6,6 +6,7 @@ Survey app sample project with laravel livewire
 - cd project_folder
 - composer install
 - cp .env.example .env
+- php artisan key:generate
 - update database variable in .evn file
 - php artisan migrate
 - php artisan db:seed // for sample data
