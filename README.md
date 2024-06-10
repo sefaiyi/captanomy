@@ -10,6 +10,7 @@ Survey app sample project with laravel livewire
 - update database variable in .evn file
 - php artisan migrate
 - php artisan db:seed // for sample data
+- npm run dev
 - php artisan serve
 
 # Test User Infomation
